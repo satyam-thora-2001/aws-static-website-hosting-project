@@ -36,15 +36,34 @@ This project demonstrates secure static website hosting using AWS services with 
 
 ## 📸 Screenshots
 
-- "S3 Bucket Creation" (screenshots/s3-bucket.png)
-- "Static Website Hosting" (screenshots/static-hosting.png)
-- "Bucket Policy" (screenshots/bucket-policy.png)
-- "S3 Website Output" (screenshots/s3-output.png)
-- "CloudFront Distribution" (screenshots/cloudfront.png)
-- "CloudFront Output" (screenshots/cloudfront-output.png)
-- "ACM SSL Certificate" (screenshots/acm-certificate.png)
-- "Custom Domain Configuration" (screenshots/custom-domain.png)
-- "Final HTTPS Website" (screenshots/final-output.png)
+## 📸 Screenshots
+
+### S3 Bucket
+![S3 Bucket](Screenshot 2026-05-06 143627.png)
+
+### Static Website Hosting
+![Static Hosting](Screenshot 2026-05-06 143702.png)
+
+### Bucket Policy
+![Bucket Policy](Screenshot 2026-05-06 143735.png)
+
+### S3 Website Output
+![S3 Output](Screenshot 2026-05-06 143759.png)
+
+### CloudFront Distribution
+![CloudFront](Screenshot 2026-05-06 150050.png)
+
+### CloudFront Settings
+![CloudFront Settings](Screenshot 2026-05-06 150116.png)
+
+### CloudFront Website Output
+![CloudFront Output](Screenshot 2026-05-06 150239.png)
+
+### ACM SSL Certificate
+![ACM SSL](Screenshot 2026-05-07 142540.png)
+
+### Final Secure Website
+![Final Website](Screenshot 2026-05-07 150023.png)
 
 ## 🎯 Outcome
 
